@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.exe.config
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.exe
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\bin\Debug\CarRentalSystem.pdb
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.Form1.resources
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.Properties.Resources.resources
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.exe
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.pdb
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.Main.resources
+C:\Users\ACER\source\repos\CarRentalSystem\CarRentalSystem\obj\Debug\CarRentalSystem.CarReg.resources
